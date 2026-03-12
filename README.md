@@ -1,4 +1,3 @@
-<img width="1504" height="434" alt="image" src="https://github.com/user-attachments/assets/7213ef2f-2452-4fdd-96ac-ded7925d7331" />
 
 # Pinty Monitor
 *A lightweight, PHP+SH powered server monitor system that's scalable, relieable.*

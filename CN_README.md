@@ -1,9 +1,8 @@
-<img width="1504" height="434" alt="image" src="https://github.com/user-attachments/assets/7213ef2f-2452-4fdd-96ac-ded7925d7331" />
 
 # Pinty Monitor
 *轻量化，可拓展的服务器探针系统，基于PHP+BASH，性能卓越。*
 
-[展示](https://sense.276966.xyz) | [TG群组](https://t.me/pintyuser) | [English README](https://github.com/crozonoo/pinty/blob/main/README.md)
+[English README](https://github.com/synasties/pinty/blob/main/README.md)
 
 # 功能
 - 追踪服务器状态，从CPU型号、内存大小到连接数、进程数。
